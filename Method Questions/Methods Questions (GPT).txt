@@ -1,0 +1,39 @@
+Write a Java method to add two numbers and return the result..
+
+Create a method that takes a string as input and prints it in reverse order.
+
+Write a method to find the maximum of three numbers.
+
+Implement a method to check if a given number is even or odd.
+
+Create a method to calculate the factorial of a given number.
+
+Write a method to determine if a given string is a palindrome.
+
+Implement a method to calculate the average of an array of numbers.
+
+Create a method to print the Fibonacci series up to a specified limit.
+
+Write a method to check if a given year is a leap year.
+
+Implement a method to find the minimum value in an array.
+
+Create a method that takes two strings and concatenates them.
+
+Write a method to calculate the area of a circle given its radius.
+
+Implement a method to reverse the order of elements in an array.
+
+Create a method to find the square root of a given number.
+
+Write a method to count the number of vowels in a string.
+
+Implement a method to check if a number is a prime number.
+
+Create a method that accepts a temperature in Celsius and converts it to Fahrenheit.
+
+Write a method to find the length of the hypotenuse of a right-angled triangle.
+
+Implement a method to check if a given array is sorted in ascending order.
+
+Create a method that takes an array of integers and returns a new array with only the unique elements.
